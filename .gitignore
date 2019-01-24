@@ -1,0 +1,5 @@
+.vs
+packages/
+obj/
+**/*.sln.DotSettins.user
+*.user
