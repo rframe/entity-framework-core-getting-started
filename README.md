@@ -1,1 +1,2 @@
 # entity-framework-core-getting-started
+This repo follows the Entity Framework Core Getting Started Pluralsight course by Julie Lerman located at https://app.pluralsight.com/library/courses/entity-framework-core-getting-started
